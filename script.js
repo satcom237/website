@@ -24,3 +24,8 @@ $('.scroll').on('click', function(e){
       scrollTop : $(this.hash).offset().top
     }, 1500);
 });
+
+function popup() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
