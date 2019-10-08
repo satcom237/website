@@ -361,3 +361,11 @@ span.answer {
   from {opacity: 0;}
   to {opacity:1 ;}
 }
+
+.answer a{
+  color: #4287f5;
+}
+
+.answer a:hover{
+  color: #C26868;
+}
