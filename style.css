@@ -118,7 +118,7 @@ li a {
 
 #consolebg {
   background-color: #719d5c;
-  height: 680px; /* size of green bg*/
+  height: 780px; /* size of green bg*/
   padding-top: 120px;
 }
 
@@ -190,7 +190,7 @@ span.answer {
 
 #resume {
   background-color: #dddddd7a;
-  padding-top: 50px; /* increase box size*/
+  padding-top: 70px; /* increase box size*/
   font-size: 18px;
 }
 
